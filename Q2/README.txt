@@ -1,4 +1,4 @@
-----------Q2:  File transfer using Selective Repeat protocol over UDP-------
+Q2:  File transfer using Selective Repeat protocol over UDP
 
 
 I. Included Files
